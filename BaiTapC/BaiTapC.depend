@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1385316878 source:e:\codeblocks\baitapc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1515678342 source:e:\codeblocks\baitapc\bai1.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1515679837 source:e:\codeblocks\baitapc\bai2.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1516112219 source:e:\codeblocks\baitapc\giaithua.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
+1516114385 source:e:\codeblocks\baitapc\sofibonaci.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1516344313 source:e:\codeblocks\baitapc\quanlisv.c
+	<stdio.h>
+	<stdlib.h>
+
+1516371118 source:e:\codeblocks\baitapc\songuyento.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
